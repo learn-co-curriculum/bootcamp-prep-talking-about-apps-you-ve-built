@@ -98,3 +98,15 @@ What else can you add to your app or project?
 You now have a framework for talking about your apps/projects during interviews. If you can cover the five points listed in the objective then you can essentially discuss the full cycle of project development - from ideation to completion. This is relevant because this is the cycle of professional project development:
 
     Idea -> Design -> Implement -> Test -> Iterate
+    
+## Next Steps
+
+Take some time to reflect on the last application or project you built. Ask yourself the questions posed earlier:
+
+- What problem does the app or project solve? (or what does it measure/identify?)
+- How did you go about architecting it?
+- What are all of its features (including the ones your classmates built)?
+- What challenges did you overcome while building it?
+- Are there any plans for the future of the app or project (what would you add to it next)?
+
+If you worked on a team project, interview your partners for the answers to “What are all of its features?”. Listen to how they describe the app/project and work together to sharpen your responses. Make sure to go over these responses with your Career Coach.
