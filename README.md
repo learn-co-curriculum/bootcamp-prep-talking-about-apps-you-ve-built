@@ -28,9 +28,9 @@ Keep this limited to only 1-2 sentences. Don’t get yourself down a rabbit hole
 
 So we’ve  addressed the *why*. This section addresses the *how*. As in, how did you get this app/project off the ground? What were all the components you and your team used to bring your app/project to life?
 
-**This is where you get technical**.
+This is where you get technical.
 
-Software Engineering:
+**Software Engineering:**
 
 - Did you use Bootstrap for the front end? jQuery for a dynamic UI? Maybe Angular because you wanted a single page app?
 - Did you use Node/Express or Rack/Rails as your framework?
@@ -40,7 +40,7 @@ Software Engineering:
 (Use this [software engineering project presentation rubric](https://docs.google.com/document/d/1bJYjOeLBaXRLJGbJ06zmjh-JbRn_0N_1E1YMG7EFCl4/edit?usp=sharing) to help you prepare and practice in advance.)
 
 
-Data Science:
+**Data Science:**
 
 - What was the purpose of the project (what did you look to measure, identify, solve, etc?)
 - What methods did you use to collect the necessary data? What were your data sources
