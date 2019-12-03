@@ -37,12 +37,20 @@ Software Engineering:
 - What database did you use? Postgres, Mongo, SQLite?
 - How did deploy the app? Heroku? Meteor?
 
+(Use this [software engineering project presentation rubric](https://docs.google.com/document/d/1bJYjOeLBaXRLJGbJ06zmjh-JbRn_0N_1E1YMG7EFCl4/edit?usp=sharing) to help you prepare and practice in advance.)
+
+
 Data Science:
 
-- What methods did you use to collect the necessary data?
+- What was the purpose of the project (what did you look to measure, identify, solve, etc?)
+- What methods did you use to collect the necessary data? What were your data sources
 - Did you clean/manipulate data with Python for analysis or other means?
-- What shallow- and deep-learning models did you use/train for additional analysis? 
+- What shallow- and deep-learning models did you use/train for additional analysis?
+- Why did you choose some models over others?
 - Did you build a web dashboard, using Dash and Flask, to display data visualizations and patterns?
+- What conclusion did your reach in your project? What further analysis or work would you do on the projeect if you had more time/resources?
+
+[Use this data science project presentation rubric](https://docs.google.com/document/d/10Bdf2ahdk4Xsqw7Wh4fjKRv5iPYRrs1YmdcHQnDiCWE/edit?usp=sharing) to help you prepare and practice in advance.)
 
 
 Remember the `Technical Experience/Applications Built` portion of your resume? You’ll want to summarize those bullet points with a high-level outline of the app/project without getting too fine-grain during this part of the conversation. That way, you leave room for questions when you ultimately dive deeper into all of its features.
